@@ -11,5 +11,6 @@ Step 3: A Carousel of different bitmojis will be displayed from which the user c
 
 Demo Video:
 
-Uploading 3D AVATAR - Brave 2024-04-23 13-18-32.mp4…
+
+https://github.com/firepiercer/3D-Avatar/assets/97324917/3b05e8e2-611f-47c7-84f0-c207a6631b3b
 
