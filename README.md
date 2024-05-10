@@ -53,5 +53,7 @@ This project is licensed under the [appropriate license, e.g., MIT License]. Ple
 Demo Video:
 
 
-https://github.com/firepiercer/3D-Avatar/assets/97324917/3b05e8e2-611f-47c7-84f0-c207a6631b3b
+https://github.com/firepiercer/3D-Avatar/assets/97324917/28f50693-ac3e-424f-9732-f238c192a5ba
+
+
 
